@@ -1,0 +1,114 @@
+match_id,match_date,home_team,away_team,round,match_minute,taker_name,taker_team,incident_type,incident_class,from,result,score_at_time
+11450156,2024-01-23,Pendikspor,Kasımpaşa,22,43,Mame Thiam,Pendikspor,goal,penalty,penalty,scored,2-2
+11450156,2024-01-23,Pendikspor,Kasımpaşa,22,41,Mame Thiam,Pendikspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450141,2024-01-29,Trabzonspor,Kasımpaşa,23,66,Haris Hajradinović,Kasımpaşa,goal,penalty,penalty,scored,1-2
+11450141,2024-01-29,Trabzonspor,Kasımpaşa,23,66,Mamadou Fall,Kasımpaşa,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450118,2024-02-02,Hatayspor,Fatih Karagümrük,24,47,Carlos Strandberg,Hatayspor,goal,penalty,penalty,scored,2-0
+11450100,2024-02-09,Adana Demirspor,Kasımpaşa,25,64,Haris Hajradinović,Kasımpaşa,goal,penalty,penalty,scored,0-3
+11450109,2024-02-11,İstanbulspor,Gaziantep FK,25,69,Denis Drăguş,İstanbulspor,goal,penalty,penalty,scored,1-2
+11450109,2024-02-11,İstanbulspor,Gaziantep FK,25,61,Alexandru Maxim,Gaziantep FK,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450101,2024-02-11,Fenerbahçe,Alanyaspor,25,44,Dušan Tadić,Fenerbahçe,goal,penalty,penalty,scored,1-1
+11450105,2024-02-17,Antalyaspor,İstanbulspor,26,83,Jackson,Antalyaspor,goal,penalty,penalty,scored,2-2
+11450110,2024-02-18,Alanyaspor,Adana Demirspor,26,56,Youcef Atal,Adana Demirspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450110,2024-02-18,Alanyaspor,Adana Demirspor,26,58,Emre Akbaba,Adana Demirspor,goal,penalty,penalty,scored,2-1
+11450108,2024-02-19,Başakşehir FK,Kayserispor,26,80,Deniz Türüç,Başakşehir FK,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450099,2024-02-23,Samsunspor,Çaykur Rizespor,27,78,Olivier Ntcham,Samsunspor,goal,penalty,penalty,scored,3-0
+11450091,2024-02-24,Fenerbahçe,Kasımpaşa,27,86,Sebastian Szymański,Fenerbahçe,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450092,2024-02-25,Fatih Karagümrük,Alanyaspor,27,89,Ahmed Hassan,Fatih Karagümrük,goal,penalty,penalty,scored,1-1
+11450095,2024-02-26,Galatasaray,Antalyaspor,27,0,Tetê,Antalyaspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450095,2024-02-26,Galatasaray,Antalyaspor,27,12,Kerem Aktürkoğlu,Antalyaspor,goal,penalty,penalty,scored,1-0
+11450071,2024-03-03,Pendikspor,Konyaspor,28,19,Sokol Cikalleshi,Konyaspor,goal,penalty,penalty,scored,0-1
+11450081,2024-03-04,Adana Demirspor,Fatih Karagümrük,28,19,Mario Balotelli,Adana Demirspor,goal,penalty,penalty,scored,1-0
+11450080,2024-03-04,Antalyaspor,Gaziantep FK,28,59,Alexandru Maxim,Gaziantep FK,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450061,2024-03-08,Galatasaray,Çaykur Rizespor,29,70,Kerem Demirbay,Çaykur Rizespor,goal,penalty,penalty,scored,5-2
+11450086,2024-03-09,Konyaspor,Adana Demirspor,29,4,Sokol Cikalleshi,Adana Demirspor,goal,penalty,penalty,scored,1-0
+11450086,2024-03-09,Konyaspor,Adana Demirspor,29,35,Alassane Ndao,Adana Demirspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450086,2024-03-09,Konyaspor,Adana Demirspor,29,42,Sokol Cikalleshi,Konyaspor,goal,penalty,penalty,scored,2-1
+11450077,2024-03-10,Fenerbahçe,Pendikspor,29,83,Michy Batshuayi,Fenerbahçe,goal,penalty,penalty,scored,2-1
+11450077,2024-03-10,Fenerbahçe,Pendikspor,29,86,İrfan Can Kahveci,Pendikspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450068,2024-03-16,Beşiktaş,Antalyaspor,30,38,Bahadır Öztürk,Beşiktaş,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450069,2024-03-16,MKE Ankaragücü,Başakşehir FK,30,48,Tolga Ciğerci,Başakşehir FK,goal,penalty,penalty,scored,1-0
+11450072,2024-03-16,Adana Demirspor,Sivasspor,30,47,Édouard Michut,Sivasspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450068,2024-03-16,Beşiktaş,Antalyaspor,30,82,Mert Günok,Beşiktaş,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450068,2024-03-16,Beşiktaş,Antalyaspor,30,30,Adam Buksa,Beşiktaş,goal,penalty,penalty,scored,0-2
+11450047,2024-04-03,Konyaspor,Trabzonspor,31,62,Edin Višća,Konyaspor,goal,penalty,penalty,scored,0-2
+11450018,2024-04-13,Kasımpaşa,Konyaspor,32,84,Uğurcan Yazğılı,Konyaspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450018,2024-04-13,Kasımpaşa,Konyaspor,32,94,Guilherme Haubert Sityá,Kasımpaşa,goal,penalty,penalty,scored,0-2
+11450031,2024-04-14,Fatih Karagümrük,Fenerbahçe,32,48,Bright Osayi-Samuel,Fenerbahçe,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450031,2024-04-14,Fatih Karagümrük,Fenerbahçe,32,63,Michy Batshuayi,Fatih Karagümrük,goal,penalty,penalty,scored,1-2
+11450033,2024-04-20,İstanbulspor,Fatih Karagümrük,33,36,Marcus Rohdén,İstanbulspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450033,2024-04-20,İstanbulspor,Fatih Karagümrük,33,81,Marcão,Fatih Karagümrük,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11450033,2024-04-20,İstanbulspor,Fatih Karagümrük,33,89,Sofiane Feghouli,Fatih Karagümrük,goal,penalty,penalty,scored,1-2
+11450017,2024-04-21,Başakşehir FK,Çaykur Rizespor,33,92,Berkay Özcan,Çaykur Rizespor,goal,penalty,penalty,scored,2-0
+11450044,2024-04-21,Galatasaray,Pendikspor,33,89,Kerem Aktürkoğlu,Pendikspor,goal,penalty,penalty,scored,4-1
+11450022,2024-04-22,Sivasspor,Fenerbahçe,33,94,Rey Manaj,Fenerbahçe,goal,penalty,penalty,scored,2-2
+11450022,2024-04-22,Sivasspor,Fenerbahçe,33,84,Rey Manaj,Sivasspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11540862,2024-05-03,MKE Ankaragücü,Alanyaspor,35,82,Oğuz Aydın,MKE Ankaragücü,goal,penalty,penalty,scored,1-1
+11540865,2024-05-04,Samsunspor,Trabzonspor,35,8,Taylan Antalyalı,Trabzonspor,goal,penalty,penalty,scored,1-0
+11540860,2024-05-06,Antalyaspor,Pendikspor,35,4,Adam Buksa,Antalyaspor,goal,penalty,penalty,scored,1-0
+11540873,2024-05-12,Kasımpaşa,Antalyaspor,36,74,Mortadha Ben Ouanes,Antalyaspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11540873,2024-05-12,Kasımpaşa,Antalyaspor,36,82,Haris Hajradinović,Kasımpaşa,goal,penalty,penalty,scored,3-0
+11540876,2024-05-12,Pendikspor,Çaykur Rizespor,36,42,Halil Akbunar,Pendikspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11540879,2024-05-18,Beşiktaş,Hatayspor,37,84,Vincent Aboubakar,Hatayspor,goal,penalty,penalty,scored,2-2
+11540888,2024-05-18,Kayserispor,Konyaspor,37,67,Carlos Mané,Kayserispor,goal,penalty,penalty,scored,2-2
+11540879,2024-05-18,Beşiktaş,Hatayspor,37,87,Salih Uçan,Hatayspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11540894,2024-05-26,Adana Demirspor,Başakşehir FK,38,38,Abdulsamet Burak,Adana Demirspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11540897,2024-05-26,Trabzonspor,MKE Ankaragücü,38,96,Enis Destan,Trabzonspor,goal,penalty,penalty,scored,4-2
+11540897,2024-05-26,Trabzonspor,MKE Ankaragücü,38,33,Anastasios Chatzigiovanis,MKE Ankaragücü,goal,penalty,penalty,scored,0-1
+11540890,2024-05-26,Fenerbahçe,İstanbulspor,38,-3,Serdar Dursun,İstanbulspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+11540890,2024-05-26,Fenerbahçe,İstanbulspor,38,7,Edin Džeko,Fenerbahçe,goal,penalty,penalty,scored,1-0
+11540894,2024-05-26,Adana Demirspor,Başakşehir FK,38,36,Tayfun Aydoğan,Başakşehir FK,goal,penalty,penalty,scored,1-2
+11540894,2024-05-26,Adana Demirspor,Başakşehir FK,38,75,Krzysztof Piątek,Adana Demirspor,goal,penalty,penalty,scored,1-5
+12528189,2024-08-09,Galatasaray,Hatayspor,1,77,Mauro Icardi,Galatasaray,goal,penalty,penalty,scored,1-1
+12528201,2024-08-17,Göztepe,Fenerbahçe,2,53,Edin Džeko,Fenerbahçe,goal,penalty,penalty,scored,0-1
+12528194,2024-08-17,Adana Demirspor,Çaykur Rizespor,2,84,Yusuf Barası,Çaykur Rizespor,goal,penalty,penalty,scored,1-2
+12528202,2024-08-18,Başakşehir FK,Alanyaspor,2,48,Jure Balkovec,Başakşehir FK,goal,penalty,penalty,scored,1-2
+12528211,2024-08-24,Bodrum,Konyaspor,3,93,Ege Bilsel,Konyaspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12528211,2024-08-24,Bodrum,Konyaspor,3,78,Kenan Özer,Bodrum,goal,penalty,penalty,scored,3-1
+12528209,2024-08-25,Antalyaspor,Hatayspor,3,91,Braian Samudio,Hatayspor,goal,penalty,penalty,scored,3-2
+12528209,2024-08-25,Antalyaspor,Hatayspor,3,24,Carlos Strandberg,Hatayspor,goal,penalty,penalty,scored,0-1
+12528212,2024-08-31,Adana Demirspor,Galatasaray,4,74,Andreaw Gravillon,Adana Demirspor,goal,penalty,penalty,scored,1-5
+12528212,2024-08-31,Adana Demirspor,Galatasaray,4,61,Yusuf Sarı,Adana Demirspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12528216,2024-09-01,Beşiktaş,Sivasspor,4,33,Arthur Masuaku,Sivasspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12528216,2024-09-01,Beşiktaş,Sivasspor,4,25,Ciro Immobile,Sivasspor,goal,penalty,penalty,scored,1-0
+12528221,2024-09-14,Sivasspor,Gaziantep FK,5,10,Alexandru Maxim,Sivasspor,goal,penalty,penalty,scored,0-1
+12528240,2024-09-15,Kasımpaşa,Fenerbahçe,5,27,Allan Saint-Maximin,Fenerbahçe,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12528240,2024-09-15,Kasımpaşa,Fenerbahçe,5,34,Dušan Tadić,Fenerbahçe,goal,penalty,penalty,scored,0-2
+12745313,2024-09-19,Trabzonspor,Kayserispor,3,2,Miguel Cardoso,Trabzonspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12528247,2024-09-21,Fenerbahçe,Galatasaray,6,60,Edin Džeko,Fenerbahçe,goal,penalty,penalty,scored,1-3
+12528250,2024-09-22,Beşiktaş,Eyüpspor,6,58,Mame Thiam,Eyüpspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12528250,2024-09-22,Beşiktaş,Eyüpspor,6,81,Ciro Immobile,Beşiktaş,goal,penalty,penalty,scored,2-1
+12528250,2024-09-22,Beşiktaş,Eyüpspor,6,88,Semih Kılıçsoy,Beşiktaş,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12528250,2024-09-22,Beşiktaş,Eyüpspor,6,69,Emre Akbaba,Eyüpspor,goal,penalty,penalty,scored,1-1
+12528259,2024-09-28,Galatasaray,Kasımpaşa,7,90,Haris Hajradinović,Kasımpaşa,goal,penalty,penalty,scored,3-2
+12528259,2024-09-28,Galatasaray,Kasımpaşa,7,89,Mamadou Fall,Galatasaray,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12528256,2024-09-29,Trabzonspor,Konyaspor,7,37,Simon Banza,Konyaspor,goal,penalty,penalty,scored,2-1
+12528256,2024-09-29,Trabzonspor,Konyaspor,7,35,Simon Banza,Trabzonspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12528263,2024-09-29,Bodrum,Adana Demirspor,7,83,Zdravko Dimitrov,Bodrum,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12528257,2024-09-30,Kayserispor,Beşiktaş,7,68,Ciro Immobile,Beşiktaş,goal,penalty,penalty,scored,0-2
+12528270,2024-10-06,Gaziantep FK,Beşiktaş,8,34,Ciro Immobile,Gaziantep FK,goal,penalty,penalty,scored,0-1
+12528264,2024-10-06,Adana Demirspor,Samsunspor,8,4,Yusuf Barası,Samsunspor,goal,penalty,penalty,scored,1-0
+12528270,2024-10-06,Gaziantep FK,Beşiktaş,8,35,Ciro Immobile,Gaziantep FK,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12528273,2024-10-20,Sivasspor,Hatayspor,9,82,Rey Manaj,Hatayspor,goal,penalty,penalty,scored,2-2
+12530887,2024-10-20,Beşiktaş,Konyaspor,9,20,Ciro Immobile,Konyaspor,goal,penalty,penalty,scored,1-0
+12530876,2024-10-26,Göztepe,Trabzonspor,10,73,Simon Banza,Trabzonspor,goal,penalty,penalty,scored,1-1
+12530881,2024-10-26,Kasımpaşa,Samsunspor,10,28,Marius Mouandilmadji,Kasımpaşa,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12530874,2024-10-28,Başakşehir FK,Eyüpspor,10,65,Miguel Crespo,Başakşehir FK,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12530874,2024-10-28,Başakşehir FK,Eyüpspor,10,65,Jerome Opoku,Başakşehir FK,goal,penalty,penalty,scored,1-1
+12530867,2024-11-01,Gaziantep FK,Göztepe,11,73,Deian Sorescu,Göztepe,goal,penalty,penalty,scored,2-1
+12530873,2024-11-03,Trabzonspor,Fenerbahçe,11,52,Okay Yokuşlu,Fenerbahçe,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12530873,2024-11-03,Trabzonspor,Fenerbahçe,11,69,Simon Banza,Trabzonspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12530873,2024-11-03,Trabzonspor,Fenerbahçe,11,54,Simon Banza,Trabzonspor,goal,penalty,penalty,scored,1-1
+12530873,2024-11-03,Trabzonspor,Fenerbahçe,11,65,Simon Banza,Fenerbahçe,goal,penalty,penalty,scored,2-1
+12530866,2024-11-04,Samsunspor,Antalyaspor,11,17,Emre Kılınç,Antalyaspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12530859,2024-11-08,Kasımpaşa,Kayserispor,12,28,Stéphane Bahoken,Kasımpaşa,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12530859,2024-11-08,Kasımpaşa,Kayserispor,12,23,Kartal Kayra Yılmaz,Kasımpaşa,goal,penalty,penalty,scored,0-1
+12530857,2024-11-09,Antalyaspor,Bodrum,12,55,Gökdeniz Bayrakdar,Antalyaspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12530857,2024-11-09,Antalyaspor,Bodrum,12,64,George Pușcaș,Bodrum,goal,penalty,penalty,scored,3-2
+12530858,2024-11-10,Galatasaray,Samsunspor,12,59,Olivier Ntcham,Samsunspor,goal,penalty,penalty,scored,1-1
+12530863,2024-11-10,Fenerbahçe,Sivasspor,12,60,Youssef En-Nesyri,Sivasspor,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12530863,2024-11-10,Fenerbahçe,Sivasspor,12,54,Dušan Tadić,Sivasspor,goal,penalty,penalty,scored,2-0
+12530862,2024-11-10,Göztepe,Konyaspor,12,94,Rômulo,Göztepe,goal,penalty,penalty,scored,1-0
+12530858,2024-11-10,Galatasaray,Samsunspor,12,87,Youssef Aït Bennasser,Galatasaray,goal,penalty,penalty,scored,3-2
+12530862,2024-11-10,Göztepe,Konyaspor,12,76,Oğulcan Ülgün,Göztepe,varDecision,penaltyNotAwarded,,not awarded/missed,0-0
+12530854,2024-11-23,Kayserispor,Fenerbahçe,13,3,Dušan Tadić,Kayserispor,goal,penalty,penalty,scored,0-1
