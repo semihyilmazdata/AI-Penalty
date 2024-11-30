@@ -1,0 +1,1383 @@
+[
+  {
+    "text": "FT",
+    "homeScore": 3,
+    "awayScore": 1,
+    "isLive": true,
+    "time": 99,
+    "addedTime": 999,
+    "timeSeconds": 5400,
+    "reversedPeriodTime": 1,
+    "reversedPeriodTimeSeconds": 0,
+    "incidentType": "period"
+  },
+  {
+    "length": 4,
+    "time": 80,
+    "addedTime": 0,
+    "reversedPeriodTime": 1,
+    "incidentType": "injuryTime"
+  },
+  {
+    "playerIn": {
+      "name": "Og\u00fcn \u00d6z\u00e7i\u00e7ek",
+      "slug": "ogun-ozcicek",
+      "shortName": "O. \u00d6z\u00e7i\u00e7ek",
+      "position": "M",
+      "jerseyNumber": "25",
+      "height": 172,
+      "userCount": 34,
+      "id": 859783,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 917136000,
+      "proposedMarketValueRaw": {
+        "value": 182294,
+        "currency": "EUR"
+      }
+    },
+    "playerOut": {
+      "name": "Deian Sorescu",
+      "slug": "deian-sorescu",
+      "shortName": "D. Sorescu",
+      "position": "M",
+      "jerseyNumber": "18",
+      "height": 175,
+      "userCount": 558,
+      "id": 797602,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 872812800,
+      "proposedMarketValueRaw": {
+        "value": 3366766,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u062f\u064a\u0627\u0646 \u0633\u0648\u0631\u0633\u0643\u0648"
+        },
+        "shortNameTranslation": {
+          "ar": "\u062f. \u0633\u0648\u0631\u0633\u0643\u0648"
+        }
+      }
+    },
+    "id": 123057652,
+    "time": 90,
+    "injury": true,
+    "isHome": true,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 5,
+    "incidentType": "substitution"
+  },
+  {
+    "playerIn": {
+      "name": "Efe Akman",
+      "firstName": "",
+      "lastName": "",
+      "slug": "efe-akman",
+      "shortName": "E. Akman",
+      "position": "M",
+      "jerseyNumber": "83",
+      "height": 175,
+      "userCount": 1018,
+      "id": 1215206,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 1142812800,
+      "proposedMarketValueRaw": {
+        "value": 33956,
+        "currency": "EUR"
+      }
+    },
+    "playerOut": {
+      "name": "Bar\u0131\u015f Alper Y\u0131lmaz",
+      "slug": "baris-alper-yilmaz",
+      "shortName": "B. A. Y\u0131lmaz",
+      "position": "F",
+      "jerseyNumber": "53",
+      "height": 186,
+      "userCount": 8945,
+      "id": 904096,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 959040000,
+      "proposedMarketValueRaw": {
+        "value": 28415890,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0628\u0627\u0631\u064a\u0634 \u064a\u0644\u0645\u0627\u0632"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0628. \u064a\u0644\u0645\u0627\u0632"
+        }
+      }
+    },
+    "id": 123057643,
+    "time": 82,
+    "injury": false,
+    "isHome": false,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 9,
+    "incidentType": "substitution"
+  },
+  {
+    "homeScore": 3,
+    "awayScore": 1,
+    "player": {
+      "name": "Furkan Soyalp",
+      "firstName": "",
+      "lastName": "",
+      "slug": "furkan-soyalp",
+      "shortName": "F. Soyalp",
+      "position": "M",
+      "jerseyNumber": "8",
+      "height": 175,
+      "userCount": 60,
+      "id": 226992,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 802915200,
+      "proposedMarketValueRaw": {
+        "value": 990294,
+        "currency": "EUR"
+      }
+    },
+    "assist1": {
+      "name": "\u0130lker Karaka\u015f",
+      "slug": "ilker-karakas",
+      "shortName": "\u0130. Karaka\u015f",
+      "position": "F",
+      "jerseyNumber": "23",
+      "height": 187,
+      "userCount": 32,
+      "id": 921406,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 916012800,
+      "proposedMarketValueRaw": {
+        "value": 107872,
+        "currency": "EUR"
+      }
+    },
+    "footballPassingNetworkAction": [
+      {
+        "player": {
+          "name": "Furkan Soyalp",
+          "firstName": "",
+          "lastName": "",
+          "slug": "furkan-soyalp",
+          "shortName": "F. Soyalp",
+          "position": "M",
+          "jerseyNumber": "8",
+          "height": 175,
+          "userCount": 60,
+          "id": 226992,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 802915200,
+          "proposedMarketValueRaw": {
+            "value": 362918,
+            "currency": "EUR"
+          }
+        },
+        "eventType": "goal",
+        "bodyPart": "right-foot",
+        "time": 80,
+        "playerCoordinates": {
+          "x": 19.161611527434545,
+          "y": 49.36131270975715
+        },
+        "gkCoordinates": {
+          "x": 6.320039061262328,
+          "y": 13.34009006363857
+        },
+        "goalShotCoordinates": {
+          "x": 0,
+          "y": 25.233661501219423
+        },
+        "goalMouthCoordinates": {
+          "x": 48.6470681979447,
+          "y": 23.219076272950232
+        },
+        "goalkeeper": {
+          "name": "Fernando Muslera",
+          "slug": "fernando-muslera",
+          "shortName": "F. Muslera",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 190,
+          "userCount": 8493,
+          "id": 28381,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 519264000,
+          "proposedMarketValueRaw": {
+            "value": 1956188,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "\u0641\u0631\u0646\u0627\u0646\u062f\u0648 \u0645\u0648\u0633\u0644\u064a\u0631\u0627"
+            },
+            "shortNameTranslation": {
+              "ar": "\u0641. \u0645\u0648\u0633\u0644\u064a\u0631\u0627"
+            }
+          }
+        }
+      }
+    ],
+    "id": 187171701,
+    "time": 76,
+    "isHome": true,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 10,
+    "incidentType": "goal"
+  },
+  {
+    "playerIn": {
+      "name": "Furkan Soyalp",
+      "firstName": "",
+      "lastName": "",
+      "slug": "furkan-soyalp",
+      "shortName": "F. Soyalp",
+      "position": "M",
+      "jerseyNumber": "8",
+      "height": 175,
+      "userCount": 60,
+      "id": 226992,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 802915200,
+      "proposedMarketValueRaw": {
+        "value": 799730,
+        "currency": "EUR"
+      }
+    },
+    "playerOut": {
+      "name": "Alexandru Maxim",
+      "firstName": "",
+      "lastName": "",
+      "slug": "alexandru-maxim",
+      "shortName": "A. Maxim",
+      "position": "M",
+      "jerseyNumber": "44",
+      "height": 177,
+      "userCount": 687,
+      "id": 180511,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 647395200,
+      "proposedMarketValueRaw": {
+        "value": 199766,
+        "currency": "EUR"
+      }
+    },
+    "id": 123057633,
+    "time": 71,
+    "injury": true,
+    "isHome": false,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 12,
+    "incidentType": "substitution"
+  },
+  {
+    "playerIn": {
+      "name": "Elias Jelert",
+      "firstName": "Elias",
+      "lastName": "Jelert",
+      "slug": "elias-jelert",
+      "shortName": "E. Jelert",
+      "position": "D",
+      "jerseyNumber": "24",
+      "height": 178,
+      "userCount": 1860,
+      "id": 1126433,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 1055376000,
+      "proposedMarketValueRaw": {
+        "value": 2549840,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0625\u0644\u064a\u0627\u0633 \u064a\u0644\u064a\u0631\u062a"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0625. \u064a\u0644\u064a\u0631\u062a"
+        }
+      }
+    },
+    "playerOut": {
+      "name": "Kaan Ayhan",
+      "slug": "kaan-ayhan",
+      "shortName": "K. Ayhan",
+      "position": "D",
+      "jerseyNumber": "23",
+      "height": 185,
+      "userCount": 2741,
+      "id": 138152,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 784425600,
+      "proposedMarketValueRaw": {
+        "value": 9005100,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0622\u064a\u0647\u0627\u0646, \u0643\u0627\u0646"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0643. \u0622\u064a\u0647\u0627\u0646"
+        }
+      }
+    },
+    "id": 123057632,
+    "time": 84,
+    "injury": false,
+    "isHome": false,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 14,
+    "incidentType": "substitution"
+  },
+  {
+    "playerIn": {
+      "name": "Victor Nelsson",
+      "slug": "victor-nelsson",
+      "shortName": "V. Nelsson",
+      "position": "D",
+      "jerseyNumber": "25",
+      "height": 187,
+      "userCount": 3343,
+      "id": 846148,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 908323200,
+      "proposedMarketValueRaw": {
+        "value": 15139136,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0641\u064a\u0643\u062a\u0648\u0631 \u0646\u064a\u0644\u0633\u0648\u0646"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0641. \u0646\u064a\u0644\u0633\u0648\u0646"
+        }
+      }
+    },
+    "playerOut": {
+      "name": "Davinson S\u00e1nchez",
+      "slug": "davinson-sanchez",
+      "shortName": "D. S\u00e1nchez",
+      "position": "D",
+      "jerseyNumber": "6",
+      "height": 187,
+      "userCount": 8487,
+      "id": 566102,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 834537600,
+      "proposedMarketValueRaw": {
+        "value": 1887606,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0633\u0627\u0646\u0634\u064a\u0632, \u062f\u0627\u0641\u064a\u0646\u0633\u0648\u0646"
+        },
+        "shortNameTranslation": {
+          "ar": "\u062f. \u0633\u0627\u0646\u0634\u064a\u0632"
+        }
+      }
+    },
+    "id": 123057631,
+    "time": 72,
+    "injury": false,
+    "isHome": true,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 14,
+    "incidentType": "substitution"
+  },
+  {
+    "homeScore": 3,
+    "awayScore": 0,
+    "player": {
+      "name": "Michy Batshuayi",
+      "firstName": "",
+      "lastName": "",
+      "slug": "michy-batshuayi",
+      "shortName": "M. Batshuayi",
+      "position": "F",
+      "jerseyNumber": "44",
+      "height": 185,
+      "userCount": 9123,
+      "id": 147745,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 749520000,
+      "proposedMarketValueRaw": {
+        "value": 3887236,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0628\u0627\u062a\u0634\u0648\u0627\u064a\u064a, \u0645\u064a\u0634\u064a"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0645. \u0628\u0627\u062a\u0634\u0648\u0627\u064a\u064a"
+        }
+      }
+    },
+    "assist1": {
+      "name": "Bar\u0131\u015f Alper Y\u0131lmaz",
+      "slug": "baris-alper-yilmaz",
+      "shortName": "B. A. Y\u0131lmaz",
+      "position": "F",
+      "jerseyNumber": "53",
+      "height": 186,
+      "userCount": 8945,
+      "id": 904096,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 959040000,
+      "proposedMarketValueRaw": {
+        "value": 19296108,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0628\u0627\u0631\u064a\u0634 \u064a\u0644\u0645\u0627\u0632"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0628. \u064a\u0644\u0645\u0627\u0632"
+        }
+      }
+    },
+    "footballPassingNetworkAction": [
+      {
+        "player": {
+          "name": "Kerem Demirbay",
+          "slug": "kerem-demirbay",
+          "shortName": "K. Demirbay",
+          "position": "M",
+          "jerseyNumber": "8",
+          "height": 185,
+          "userCount": 2781,
+          "id": 142619,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 741657600,
+          "proposedMarketValueRaw": {
+            "value": 1478986,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "\u062f\u064a\u0645\u064a\u0631\u0628\u0627\u064a, \u0643\u064a\u0631\u064a\u0645"
+            },
+            "shortNameTranslation": {
+              "ar": "\u0643. \u062f\u064a\u0645\u064a\u0631\u0628\u0627\u064a"
+            }
+          }
+        },
+        "eventType": "pass",
+        "time": 84,
+        "playerCoordinates": {
+          "x": 100,
+          "y": 45.91608423938338
+        },
+        "passEndCoordinates": {
+          "x": 41.61672912556888,
+          "y": 68.92529226785503
+        }
+      },
+      {
+        "player": {
+          "name": "Bar\u0131\u015f Alper Y\u0131lmaz",
+          "slug": "baris-alper-yilmaz",
+          "shortName": "B. A. Y\u0131lmaz",
+          "position": "F",
+          "jerseyNumber": "53",
+          "height": 186,
+          "userCount": 8945,
+          "id": 904096,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 959040000,
+          "proposedMarketValueRaw": {
+            "value": 9725282,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "\u0628\u0627\u0631\u064a\u0634 \u064a\u0644\u0645\u0627\u0632"
+            },
+            "shortNameTranslation": {
+              "ar": "\u0628. \u064a\u0644\u0645\u0627\u0632"
+            }
+          }
+        },
+        "eventType": "pass",
+        "isAssist": false,
+        "time": 72,
+        "playerCoordinates": {
+          "x": 100,
+          "y": 77.6425744019192
+        },
+        "passEndCoordinates": {
+          "x": 100,
+          "y": 57.707408489530614
+        }
+      },
+      {
+        "player": {
+          "name": "Michy Batshuayi",
+          "firstName": "",
+          "lastName": "",
+          "slug": "michy-batshuayi",
+          "shortName": "M. Batshuayi",
+          "position": "F",
+          "jerseyNumber": "44",
+          "height": 185,
+          "userCount": 9123,
+          "id": 147745,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 749520000,
+          "proposedMarketValueRaw": {
+            "value": 9651756,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "\u0628\u0627\u062a\u0634\u0648\u0627\u064a\u064a, \u0645\u064a\u0634\u064a"
+            },
+            "shortNameTranslation": {
+              "ar": "\u0645. \u0628\u0627\u062a\u0634\u0648\u0627\u064a\u064a"
+            }
+          }
+        },
+        "eventType": "goal",
+        "bodyPart": "right-foot",
+        "time": 76,
+        "playerCoordinates": {
+          "x": 96,
+          "y": 43.01424803574794
+        },
+        "gkCoordinates": {
+          "x": 100,
+          "y": 57.94170610230411
+        },
+        "goalShotCoordinates": {
+          "x": 100,
+          "y": 51.95195387520475
+        },
+        "goalMouthCoordinates": {
+          "x": 86.21600909083857,
+          "y": 50.149176489023844
+        },
+        "goalkeeper": {
+          "name": "Sokratis Dioudis",
+          "slug": "sokratis-dioudis",
+          "shortName": "S. Dioudis",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 189,
+          "userCount": 270,
+          "id": 173933,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 728697600,
+          "proposedMarketValueRaw": {
+            "value": 190600,
+            "currency": "EUR"
+          }
+        }
+      }
+    ],
+    "id": 187171654,
+    "time": 69,
+    "isHome": true,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 15,
+    "incidentType": "goal"
+  },
+  {
+    "player": {
+      "name": "Kacper Koz\u0142owski",
+      "firstName": "",
+      "lastName": "",
+      "slug": "kacper-kozlowski",
+      "shortName": "K. Koz\u0142owski",
+      "position": "M",
+      "jerseyNumber": "10",
+      "height": 182,
+      "userCount": 3348,
+      "id": 984602,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 1066262400,
+      "proposedMarketValueRaw": {
+        "value": 1509814,
+        "currency": "EUR"
+      }
+    },
+    "playerName": "Kacper Koz\u0142owski",
+    "reason": "Argument",
+    "rescinded": true,
+    "id": 121559484,
+    "time": 67,
+    "isHome": false,
+    "incidentClass": "yellow",
+    "reversedPeriodTime": 17,
+    "incidentType": "card"
+  },
+  {
+    "playerIn": {
+      "name": "Kerem Demirbay",
+      "slug": "kerem-demirbay",
+      "shortName": "K. Demirbay",
+      "position": "M",
+      "jerseyNumber": "8",
+      "height": 185,
+      "userCount": 2781,
+      "id": 142619,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 741657600,
+      "proposedMarketValueRaw": {
+        "value": 6009562,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u062f\u064a\u0645\u064a\u0631\u0628\u0627\u064a, \u0643\u064a\u0631\u064a\u0645"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0643. \u062f\u064a\u0645\u064a\u0631\u0628\u0627\u064a"
+        }
+      }
+    },
+    "playerOut": {
+      "name": "Dries Mertens",
+      "slug": "dries-mertens",
+      "shortName": "D. Mertens",
+      "position": "M",
+      "jerseyNumber": "10",
+      "height": 169,
+      "userCount": 12840,
+      "id": 32493,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 547257600,
+      "proposedMarketValueRaw": {
+        "value": 421196,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u062f\u0631\u0627\u064a\u0632 \u0645\u064a\u0631\u062a\u0646\u0632"
+        },
+        "shortNameTranslation": {
+          "ar": "\u062f. \u0645\u064a\u0631\u062a\u0646\u0632"
+        }
+      }
+    },
+    "id": 123057614,
+    "time": 63,
+    "injury": false,
+    "isHome": false,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 19,
+    "incidentType": "substitution"
+  },
+  {
+    "playerIn": {
+      "name": "Yusuf Demir",
+      "firstName": "",
+      "lastName": "",
+      "slug": "yusuf-demir",
+      "shortName": "Y. Demir",
+      "position": "F",
+      "jerseyNumber": "30",
+      "height": 173,
+      "userCount": 3782,
+      "id": 962283,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 1054512000,
+      "proposedMarketValueRaw": {
+        "value": 267988,
+        "currency": "EUR"
+      }
+    },
+    "playerOut": {
+      "name": "Yunus Akg\u00fcn",
+      "slug": "yunus-akgun",
+      "shortName": "Y. Akg\u00fcn",
+      "position": "M",
+      "jerseyNumber": "11",
+      "height": 173,
+      "userCount": 5142,
+      "id": 857738,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 962928000,
+      "proposedMarketValueRaw": {
+        "value": 7961338,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u064a\u0648\u0646\u0633 \u0623\u0643\u063a\u0648\u0646"
+        },
+        "shortNameTranslation": {
+          "ar": "\u064a. \u0623\u0643\u063a\u0648\u0646"
+        }
+      }
+    },
+    "id": 123057613,
+    "time": 75,
+    "injury": true,
+    "isHome": false,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 19,
+    "incidentType": "substitution"
+  },
+  {
+    "playerIn": {
+      "name": "\u0130lker Karaka\u015f",
+      "slug": "ilker-karakas",
+      "shortName": "\u0130. Karaka\u015f",
+      "position": "F",
+      "jerseyNumber": "23",
+      "height": 187,
+      "userCount": 32,
+      "id": 921406,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 916012800,
+      "proposedMarketValueRaw": {
+        "value": 516834,
+        "currency": "EUR"
+      }
+    },
+    "playerOut": {
+      "name": "Kenan Kodro",
+      "firstName": "",
+      "lastName": "",
+      "slug": "kenan-kodro",
+      "shortName": "K. Kodro",
+      "position": "F",
+      "jerseyNumber": "19",
+      "height": 187,
+      "userCount": 351,
+      "id": 591140,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 745718400,
+      "proposedMarketValueRaw": {
+        "value": 565940,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0643\u0648\u062f\u0631\u0648, \u0643\u064a\u0646\u0627\u0646"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0643. \u0643\u0648\u062f\u0631\u0648"
+        }
+      }
+    },
+    "id": 123057615,
+    "time": 69,
+    "injury": true,
+    "isHome": true,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 21,
+    "incidentType": "substitution"
+  },
+  {
+    "playerIn": {
+      "name": "Salem M'Bakata",
+      "firstName": "",
+      "lastName": "",
+      "slug": "salem-mbakata",
+      "shortName": "S. M'Bakata",
+      "position": "D",
+      "jerseyNumber": "22",
+      "height": 177,
+      "userCount": 68,
+      "id": 940367,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 892944000,
+      "proposedMarketValueRaw": {
+        "value": 229980,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0633\u0627\u0644\u0645 \u0645\u0628\u0643\u0627\u062a\u0627"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0633. \u0645\u0628\u0643\u0627\u062a\u0627"
+        }
+      }
+    },
+    "playerOut": {
+      "name": "Emre Ta\u015fdemir",
+      "slug": "emre-tasdemir",
+      "shortName": "E. Ta\u015fdemir",
+      "position": "D",
+      "jerseyNumber": "3",
+      "height": 176,
+      "userCount": 88,
+      "id": 190191,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 807840000,
+      "proposedMarketValueRaw": {
+        "value": 256304,
+        "currency": "EUR"
+      }
+    },
+    "id": 123057557,
+    "time": 36,
+    "injury": true,
+    "isHome": true,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 45,
+    "incidentType": "substitution"
+  },
+  {
+    "playerIn": {
+      "name": "Cyril Mandouki",
+      "firstName": "",
+      "lastName": "",
+      "slug": "cyril-mandouki",
+      "shortName": "C. Mandouki",
+      "position": "M",
+      "jerseyNumber": "14",
+      "height": 180,
+      "userCount": 40,
+      "id": 821461,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 682732800,
+      "proposedMarketValueRaw": {
+        "value": 327512,
+        "currency": "EUR"
+      }
+    },
+    "playerOut": {
+      "name": "Mirza Cihan",
+      "firstName": "",
+      "lastName": "",
+      "slug": "mirza-cihan",
+      "shortName": "M. Cihan",
+      "position": "F",
+      "jerseyNumber": "17",
+      "height": 175,
+      "userCount": 25,
+      "id": 909289,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 972518400,
+      "proposedMarketValueRaw": {
+        "value": 34414,
+        "currency": "EUR"
+      }
+    },
+    "id": 123057556,
+    "time": 42,
+    "injury": true,
+    "isHome": false,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 45,
+    "incidentType": "substitution"
+  },
+  {
+    "text": "HT",
+    "homeScore": 2,
+    "awayScore": 0,
+    "isLive": true,
+    "time": 49,
+    "addedTime": 999,
+    "timeSeconds": 2700,
+    "reversedPeriodTime": 1,
+    "reversedPeriodTimeSeconds": 0,
+    "incidentType": "period"
+  },
+  {
+    "length": 2,
+    "time": 52,
+    "addedTime": 0,
+    "reversedPeriodTime": 1,
+    "incidentType": "injuryTime"
+  },
+  {
+    "player": {
+      "name": "Kaan Ayhan",
+      "slug": "kaan-ayhan",
+      "shortName": "K. Ayhan",
+      "position": "D",
+      "jerseyNumber": "23",
+      "height": 185,
+      "userCount": 2741,
+      "id": 138152,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 784425600,
+      "proposedMarketValueRaw": {
+        "value": 2767518,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0622\u064a\u0647\u0627\u0646, \u0643\u0627\u0646"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0643. \u0622\u064a\u0647\u0627\u0646"
+        }
+      }
+    },
+    "playerName": "Kaan Ayhan",
+    "reason": "Foul",
+    "rescinded": true,
+    "id": 121559357,
+    "time": 37,
+    "isHome": true,
+    "incidentClass": "yellow",
+    "reversedPeriodTime": 10,
+    "incidentType": "card"
+  },
+  {
+    "homeScore": 2,
+    "awayScore": 0,
+    "player": {
+      "name": "Yunus Akg\u00fcn",
+      "slug": "yunus-akgun",
+      "shortName": "Y. Akg\u00fcn",
+      "position": "M",
+      "jerseyNumber": "11",
+      "height": 173,
+      "userCount": 5142,
+      "id": 857738,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 962928000,
+      "proposedMarketValueRaw": {
+        "value": 5350110,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u064a\u0648\u0646\u0633 \u0623\u0643\u063a\u0648\u0646"
+        },
+        "shortNameTranslation": {
+          "ar": "\u064a. \u0623\u0643\u063a\u0648\u0646"
+        }
+      }
+    },
+    "assist1": {
+      "name": "Michy Batshuayi",
+      "firstName": "",
+      "lastName": "",
+      "slug": "michy-batshuayi",
+      "shortName": "M. Batshuayi",
+      "position": "F",
+      "jerseyNumber": "44",
+      "height": 185,
+      "userCount": 9123,
+      "id": 147745,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 749520000,
+      "proposedMarketValueRaw": {
+        "value": 9663928,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0628\u0627\u062a\u0634\u0648\u0627\u064a\u064a, \u0645\u064a\u0634\u064a"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0645. \u0628\u0627\u062a\u0634\u0648\u0627\u064a\u064a"
+        }
+      }
+    },
+    "footballPassingNetworkAction": [
+      {
+        "player": {
+          "name": "Gabriel Sara",
+          "slug": "gabriel-sara",
+          "shortName": "G. Sara",
+          "position": "M",
+          "jerseyNumber": "20",
+          "height": 178,
+          "userCount": 6049,
+          "id": 913593,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 930355200,
+          "proposedMarketValueRaw": {
+            "value": 10231946,
+            "currency": "EUR"
+          }
+        },
+        "eventType": "pass",
+        "time": 30,
+        "playerCoordinates": {
+          "x": 41.11590157069381,
+          "y": 45.11813831033946
+        },
+        "passEndCoordinates": {
+          "x": 54.135143917076405,
+          "y": 1.3774441507027593
+        }
+      },
+      {
+        "player": {
+          "name": "Dries Mertens",
+          "slug": "dries-mertens",
+          "shortName": "D. Mertens",
+          "position": "M",
+          "jerseyNumber": "10",
+          "height": 169,
+          "userCount": 12840,
+          "id": 32493,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 547257600,
+          "proposedMarketValueRaw": {
+            "value": 1411900,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "\u062f\u0631\u0627\u064a\u0632 \u0645\u064a\u0631\u062a\u0646\u0632"
+            },
+            "shortNameTranslation": {
+              "ar": "\u062f. \u0645\u064a\u0631\u062a\u0646\u0632"
+            }
+          }
+        },
+        "eventType": "pass",
+        "time": 33,
+        "playerCoordinates": {
+          "x": 100,
+          "y": 14.754745994838
+        },
+        "passEndCoordinates": {
+          "x": 100,
+          "y": 17.69522163189947
+        }
+      },
+      {
+        "player": {
+          "name": "Michy Batshuayi",
+          "firstName": "",
+          "lastName": "",
+          "slug": "michy-batshuayi",
+          "shortName": "M. Batshuayi",
+          "position": "F",
+          "jerseyNumber": "44",
+          "height": 185,
+          "userCount": 9123,
+          "id": 147745,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 749520000,
+          "proposedMarketValueRaw": {
+            "value": 12609012,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "\u0628\u0627\u062a\u0634\u0648\u0627\u064a\u064a, \u0645\u064a\u0634\u064a"
+            },
+            "shortNameTranslation": {
+              "ar": "\u0645. \u0628\u0627\u062a\u0634\u0648\u0627\u064a\u064a"
+            }
+          }
+        },
+        "eventType": "pass",
+        "isAssist": true,
+        "time": 24,
+        "playerCoordinates": {
+          "x": 19.97964633070201,
+          "y": 44.18697945373839
+        },
+        "passEndCoordinates": {
+          "x": 80.55014482254536,
+          "y": 80.05016303020409
+        }
+      },
+      {
+        "player": {
+          "name": "Yunus Akg\u00fcn",
+          "slug": "yunus-akgun",
+          "shortName": "Y. Akg\u00fcn",
+          "position": "M",
+          "jerseyNumber": "11",
+          "height": 173,
+          "userCount": 5142,
+          "id": 857738,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 962928000,
+          "proposedMarketValueRaw": {
+            "value": 3545612,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "\u064a\u0648\u0646\u0633 \u0623\u0643\u063a\u0648\u0646"
+            },
+            "shortNameTranslation": {
+              "ar": "\u064a. \u0623\u0643\u063a\u0648\u0646"
+            }
+          }
+        },
+        "eventType": "goal",
+        "bodyPart": "right-foot",
+        "time": 19,
+        "playerCoordinates": {
+          "x": 100,
+          "y": 14.299213834724327
+        },
+        "gkCoordinates": {
+          "x": 100,
+          "y": 71.31637865105742
+        },
+        "goalShotCoordinates": {
+          "x": 100,
+          "y": 100
+        },
+        "goalMouthCoordinates": {
+          "x": 27.702666702181638,
+          "y": 89.71677546201464
+        },
+        "goalkeeper": {
+          "name": "Sokratis Dioudis",
+          "slug": "sokratis-dioudis",
+          "shortName": "S. Dioudis",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 189,
+          "userCount": 270,
+          "id": 173933,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 728697600,
+          "proposedMarketValueRaw": {
+            "value": 912426,
+            "currency": "EUR"
+          }
+        }
+      }
+    ],
+    "id": 187170948,
+    "time": 25,
+    "isHome": true,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 20,
+    "incidentType": "goal"
+  },
+  {
+    "homeScore": 1,
+    "awayScore": 0,
+    "player": {
+      "name": "Bar\u0131\u015f Alper Y\u0131lmaz",
+      "slug": "baris-alper-yilmaz",
+      "shortName": "B. A. Y\u0131lmaz",
+      "position": "F",
+      "jerseyNumber": "53",
+      "height": 186,
+      "userCount": 8945,
+      "id": 904096,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 959040000,
+      "proposedMarketValueRaw": {
+        "value": 30800404,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u0628\u0627\u0631\u064a\u0634 \u064a\u0644\u0645\u0627\u0632"
+        },
+        "shortNameTranslation": {
+          "ar": "\u0628. \u064a\u0644\u0645\u0627\u0632"
+        }
+      }
+    },
+    "assist1": {
+      "name": "Dries Mertens",
+      "slug": "dries-mertens",
+      "shortName": "D. Mertens",
+      "position": "M",
+      "jerseyNumber": "10",
+      "height": 169,
+      "userCount": 12840,
+      "id": 32493,
+      "marketValueCurrency": "EUR",
+      "dateOfBirthTimestamp": 547257600,
+      "proposedMarketValueRaw": {
+        "value": 2696694,
+        "currency": "EUR"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "\u062f\u0631\u0627\u064a\u0632 \u0645\u064a\u0631\u062a\u0646\u0632"
+        },
+        "shortNameTranslation": {
+          "ar": "\u062f. \u0645\u064a\u0631\u062a\u0646\u0632"
+        }
+      }
+    },
+    "footballPassingNetworkAction": [
+      {
+        "player": {
+          "name": "Abd\u00fclkerim Bardakc\u0131",
+          "slug": "abdulkerim-bardakci",
+          "shortName": "A. Bardakc\u0131",
+          "position": "D",
+          "jerseyNumber": "42",
+          "height": 185,
+          "userCount": 4397,
+          "id": 178963,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 778896000,
+          "proposedMarketValueRaw": {
+            "value": 250136,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "\u0639\u0628\u062f \u0627\u0644\u0643\u0631\u064a\u0645 \u0628\u0627\u0631\u062f\u0627\u0643\u0633\u064a"
+            },
+            "shortNameTranslation": {
+              "ar": "\u0639. \u0627. \u0628\u0627\u0631\u062f\u0627\u0643\u0633\u064a"
+            }
+          }
+        },
+        "eventType": "pass",
+        "time": 10,
+        "playerCoordinates": {
+          "x": 57.450552826501955,
+          "y": 34.698275024424234
+        },
+        "passEndCoordinates": {
+          "x": 80.37344453329844,
+          "y": 8.689773978084105
+        }
+      },
+      {
+        "player": {
+          "name": "Yunus Akg\u00fcn",
+          "slug": "yunus-akgun",
+          "shortName": "Y. Akg\u00fcn",
+          "position": "M",
+          "jerseyNumber": "11",
+          "height": 173,
+          "userCount": 5142,
+          "id": 857738,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 962928000,
+          "proposedMarketValueRaw": {
+            "value": 2859720,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "\u064a\u0648\u0646\u0633 \u0623\u0643\u063a\u0648\u0646"
+            },
+            "shortNameTranslation": {
+              "ar": "\u064a. \u0623\u0643\u063a\u0648\u0646"
+            }
+          }
+        },
+        "eventType": "pass",
+        "time": 13,
+        "playerCoordinates": {
+          "x": 17.142034316572023,
+          "y": 83.1836924923343
+        },
+        "passEndCoordinates": {
+          "x": 99.20834171735335,
+          "y": 31.73404304360286
+        }
+      },
+      {
+        "player": {
+          "name": "Dries Mertens",
+          "slug": "dries-mertens",
+          "shortName": "D. Mertens",
+          "position": "M",
+          "jerseyNumber": "10",
+          "height": 169,
+          "userCount": 12840,
+          "id": 32493,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 547257600,
+          "proposedMarketValueRaw": {
+            "value": 1597464,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "\u062f\u0631\u0627\u064a\u0632 \u0645\u064a\u0631\u062a\u0646\u0632"
+            },
+            "shortNameTranslation": {
+              "ar": "\u062f. \u0645\u064a\u0631\u062a\u0646\u0632"
+            }
+          }
+        },
+        "eventType": "pass",
+        "isAssist": true,
+        "time": 4,
+        "playerCoordinates": {
+          "x": 60.871631007561405,
+          "y": 28.80469400412882
+        },
+        "passEndCoordinates": {
+          "x": 46.105520650121846,
+          "y": 44
+        }
+      },
+      {
+        "player": {
+          "name": "Bar\u0131\u015f Alper Y\u0131lmaz",
+          "slug": "baris-alper-yilmaz",
+          "shortName": "B. A. Y\u0131lmaz",
+          "position": "F",
+          "jerseyNumber": "53",
+          "height": 186,
+          "userCount": 8945,
+          "id": 904096,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 959040000,
+          "proposedMarketValueRaw": {
+            "value": 37039192,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "\u0628\u0627\u0631\u064a\u0634 \u064a\u0644\u0645\u0627\u0632"
+            },
+            "shortNameTranslation": {
+              "ar": "\u0628. \u064a\u0644\u0645\u0627\u0632"
+            }
+          }
+        },
+        "eventType": "goal",
+        "bodyPart": "right-foot",
+        "time": 7,
+        "playerCoordinates": {
+          "x": 100,
+          "y": 64.2817314581404
+        },
+        "gkCoordinates": {
+          "x": 35.01530017206059,
+          "y": 58.502023914386044
+        },
+        "goalShotCoordinates": {
+          "x": 100,
+          "y": 100
+        },
+        "goalMouthCoordinates": {
+          "x": 28.882008888208425,
+          "y": 100
+        },
+        "goalkeeper": {
+          "name": "Sokratis Dioudis",
+          "slug": "sokratis-dioudis",
+          "shortName": "S. Dioudis",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 189,
+          "userCount": 270,
+          "id": 173933,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 728697600,
+          "proposedMarketValueRaw": {
+            "value": 592776,
+            "currency": "EUR"
+          }
+        }
+      }
+    ],
+    "id": 187170807,
+    "time": 12,
+    "isHome": false,
+    "incidentClass": "regular",
+    "reversedPeriodTime": 35,
+    "incidentType": "goal"
+  }
+]
